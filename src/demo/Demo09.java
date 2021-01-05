@@ -26,6 +26,6 @@ public class Demo09 {
                 return mid;
             }
         }
-        return -1;
+        return -100;
     }
 }

@@ -6,6 +6,7 @@ public class Demo07 {
         int high = arr.length-1;
         int mid;
 
+
         if(key < arr[low] || key > arr[high]){
             return -1;
         }
